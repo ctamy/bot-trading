@@ -1,0 +1,22 @@
+{
+  "name": "bot_trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.4.0",
+    "binance-api-node": "0.12.4",
+    "comma-number": "2.1.0",
+    "dotenv": "16.0.3",
+    "moment": "2.29.4",
+    "node-storage": "0.0.9",
+    "urlencode": "1.1.0",
+    "uuid": "9.0.0",
+    "web3": "1.9.0"
+  }
+}
